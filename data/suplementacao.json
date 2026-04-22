@@ -1,0 +1,26 @@
+{
+  "suplementos": [
+    {
+      "nome": "Forza Nutricci – Inzime",
+      "sabor": "Conforme preferência",
+      "modo_uso": "Diluir 10g (1 sachê) em 200ml de água gelada e tomar antes de dormir",
+      "horario": "Antes de dormir",
+      "icone": "🌙"
+    },
+    {
+      "nome": "OmegaFor Plus – Vitafor",
+      "modo_uso": "Tomar 2 cápsulas após o almoço e 1 cápsula após o jantar",
+      "horario": "Após almoço (2 cápsulas) e após jantar (1 cápsula)",
+      "icone": "💊"
+    }
+  ],
+  "onde_comprar": [
+    "TopMed: (61) 99657-8029",
+    "Benenutri: (61) 98377-7721",
+    "Viva Medicamentos: (61) 99273-6380",
+    "Internet"
+  ],
+  "observacao": "Há necessidade clínica de acordo com a tabela nutricional e patologias associadas. Sem interesse comercial envolvido.",
+  "data_prescricao": "18 de dezembro de 2025",
+  "nutricionista": "Verônica Alves — CRN/1 20331"
+}

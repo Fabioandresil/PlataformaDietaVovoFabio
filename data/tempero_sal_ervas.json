@@ -1,0 +1,31 @@
+{
+  "nome": "Sal de Ervas",
+  "descricao": "Mix de ervas — ótima opção para controle e prevenção da hipertensão arterial. Contribui para redução do consumo de sódio, além de ser de fácil preparo, baixo custo e possuir propriedades antioxidantes e anti-inflamatórias.",
+  "porcoes": 30,
+  "ingredientes": [
+    "2 colheres de sopa de orégano seco",
+    "2 colheres de sopa de manjericão seco",
+    "2 colheres de sopa de alecrim seco",
+    "2 colheres de sopa de salsinha desidratada",
+    "1 colher de chá de sal cozinha (6g)"
+  ],
+  "modo_preparo": [
+    "Bata todos os ingredientes no liquidificador",
+    "Se desejar, peneire a mistura batida"
+  ],
+  "informacao_nutricional_por_porcao_1g": {
+    "energia_kcal": 3,
+    "carboidratos_g": 1,
+    "proteina_g": 0,
+    "gordura_g": 0,
+    "gorduras_saturadas_g": 0,
+    "fibra_alimentar_g": 0,
+    "sodio_mg": 78
+  },
+  "beneficios": [
+    "Reduz o consumo de sódio comparado ao sal comum",
+    "Propriedades antioxidantes e anti-inflamatórias",
+    "Fácil preparo e baixo custo",
+    "Indicado para controle e prevenção de hipertensão arterial"
+  ]
+}

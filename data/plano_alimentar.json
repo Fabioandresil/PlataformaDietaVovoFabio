@@ -1,0 +1,354 @@
+{
+  "paciente": "Fabio Silveira",
+  "data_nascimento": "10/04/1946",
+  "idade": 79,
+  "altura_cm": 162,
+  "peso_kg": 55.3,
+  "imc": 21.1,
+  "condicoes_saude": [
+    "Pré-diabético",
+    "Índice glicêmico aumentado",
+    "Doença Renal Crônica Grave (DRC)",
+    "3 stents cardíacos"
+  ],
+  "atividade_fisica": "Academia leve 40 minutos, 4x por semana",
+  "nutricionista": "Verônica Alves — CRN/1 20331",
+  "clinica": "NefroClínicas Brasília-DF",
+  "refeicoes": [
+    {
+      "horario": "07:00",
+      "nome": "Café da Manhã",
+      "itens": [
+        {
+          "descricao": "Fruta",
+          "opcoes": [
+            "1 fatia média de mamão Formosa (80g)",
+            "1 pedaço pequeno de manga Tommy ou Palmer (60g)"
+          ]
+        },
+        {
+          "descricao": "Fibra",
+          "opcoes": [
+            "10g de semente de linhaça dourada",
+            "10g de chia",
+            "10g de psyllium",
+            "10g de farelo de aveia",
+            "Mix de todas (não ultrapassar 10g por refeição)"
+          ]
+        },
+        {
+          "descricao": "Proteína",
+          "opcoes": [
+            "1 unidade de ovo de galinha (45g) — preparar mexido com um fio de azeite",
+            "1 fatia grande de queijo minas frescal (40g)"
+          ]
+        },
+        {
+          "descricao": "Carboidrato",
+          "opcoes": [
+            "5 colheres de sopa de cuscuz de milho cozido (125g)",
+            "2 fatias de pão de forma de trigo integral (50g)"
+          ]
+        },
+        {
+          "descricao": "Bebida",
+          "opcoes": [
+            "1 copo pequeno de leite zero lactose com café (120ml)"
+          ]
+        }
+      ],
+      "notas": [
+        "Preparar o ovo mexido com um fio de azeite",
+        "Para adoçar o café ou chá: usar adoçante stévia ou eritritol",
+        "Pode variar as frutas de acordo com a tabela de substituição"
+      ],
+      "variacoes_de_pratos": [
+        {
+          "nome": "Café Clássico",
+          "descricao": "Mamão + linhaça + ovo mexido no azeite + cuscuz de milho + café com leite zero lactose",
+          "ingredientes_principais": [
+            "1 fatia média de mamão Formosa (80g)",
+            "10g de semente de linhaça dourada",
+            "1 ovo de galinha (45g)",
+            "Fio de azeite de oliva",
+            "5 colheres de sopa de cuscuz de milho cozido (125g)",
+            "1 copo de leite zero lactose com café (120ml)"
+          ]
+        },
+        {
+          "nome": "Café com Pão Integral",
+          "descricao": "Manga + chia + queijo minas frescal + 2 fatias de pão integral + café com leite zero lactose",
+          "ingredientes_principais": [
+            "1 pedaço de manga Tommy ou Palmer (60g)",
+            "10g de chia",
+            "1 fatia grande de queijo minas frescal (40g)",
+            "2 fatias de pão de forma integral (50g)",
+            "1 copo de leite zero lactose com café (120ml)"
+          ]
+        },
+        {
+          "nome": "Café Nutritivo",
+          "descricao": "Mamão + mix de fibras (linhaça + aveia) + ovo mexido + cuscuz de milho + café com leite zero lactose",
+          "ingredientes_principais": [
+            "1 fatia média de mamão Formosa (80g)",
+            "5g de linhaça dourada + 5g de farelo de aveia",
+            "1 ovo de galinha (45g)",
+            "Fio de azeite de oliva",
+            "5 colheres de sopa de cuscuz de milho cozido (125g)",
+            "1 copo de leite zero lactose com café (120ml)"
+          ]
+        }
+      ]
+    },
+    {
+      "horario": "10:00",
+      "nome": "Lanche da Manhã",
+      "itens": [
+        {
+          "descricao": "Fruta",
+          "opcoes": [
+            "1 unidade grande, fresca de ameixa (52g)",
+            "1/2 unidade média de pera (55g)"
+          ]
+        }
+      ],
+      "notas": [
+        "Lanche leve — apenas uma fruta",
+        "Pode consultar tabela de substituição de frutas"
+      ],
+      "variacoes_de_pratos": [
+        {
+          "nome": "Ameixa Fresca",
+          "descricao": "1 ameixa grande fresca (52g)",
+          "ingredientes_principais": [
+            "1 ameixa fresca grande (52g)"
+          ]
+        },
+        {
+          "nome": "Meia Pera",
+          "descricao": "1/2 pera média (55g)",
+          "ingredientes_principais": [
+            "1/2 pera média (55g)"
+          ]
+        },
+        {
+          "nome": "Fruta da Estação",
+          "descricao": "Fruta da estação permitida — consultar tabela de substituição — porção equivalente",
+          "ingredientes_principais": [
+            "Fruta da estação permitida (porção equivalente ~50-60g)"
+          ]
+        }
+      ]
+    },
+    {
+      "horario": "12:00",
+      "nome": "Almoço",
+      "entrada": [
+        "Salada crua — alfaces, rúcula, acelga, repolho, tomate, pepino, rabanete",
+        "2 colheres de chá de azeite de oliva extra virgem (4g)"
+      ],
+      "itens": [
+        {
+          "descricao": "Legume cozido",
+          "opcoes": [
+            "2 col. sopa cheias de abobrinha cozida picada (60g)",
+            "2 col. sopa cheias de cenoura cozida picada (50g)"
+          ]
+        },
+        {
+          "descricao": "Carboidrato",
+          "opcoes": [
+            "2 pedaços pequenos de mandioca cozida (100g)",
+            "3 col. sopa cheias de arroz (75g)"
+          ]
+        },
+        {
+          "descricao": "Leguminosa",
+          "opcoes": [
+            "2 col. sopa de feijão carioca cozido (30g)"
+          ]
+        },
+        {
+          "descricao": "Proteína",
+          "opcoes": [
+            "50g de peixe grelhado",
+            "50g de carne bovina cozida"
+          ]
+        }
+      ],
+      "notas": [
+        "Lembre-se de NÃO repetir carne vermelha mais que 3 vezes por semana",
+        "Nunca adicione sal ao prato — use limão e azeite nas saladas"
+      ],
+      "variacoes_de_pratos": [
+        {
+          "nome": "Prato com Peixe",
+          "descricao": "Salada crua com azeite + abobrinha cozida + arroz (75g) + feijão carioca + 50g de peixe grelhado",
+          "ingredientes_principais": [
+            "Folhas para salada (alface, rúcula, acelga) a gosto",
+            "Tomate, pepino, rabanete a gosto",
+            "2 col. chá de azeite de oliva extra virgem (4g)",
+            "2 col. sopa de abobrinha cozida (60g)",
+            "3 col. sopa de arroz cozido (75g)",
+            "2 col. sopa de feijão carioca cozido (30g)",
+            "50g de peixe grelhado"
+          ]
+        },
+        {
+          "nome": "Prato com Carne Bovina",
+          "descricao": "Salada crua com azeite + cenoura cozida + mandioca cozida (100g) + feijão carioca + 50g de carne bovina",
+          "ingredientes_principais": [
+            "Folhas para salada a gosto",
+            "Tomate, pepino a gosto",
+            "2 col. chá de azeite de oliva (4g)",
+            "2 col. sopa de cenoura cozida (50g)",
+            "2 pedaços de mandioca cozida (100g)",
+            "2 col. sopa de feijão carioca (30g)",
+            "50g de carne bovina cozida"
+          ]
+        },
+        {
+          "nome": "Prato Vegetariano",
+          "descricao": "Salada crua com azeite + abobrinha + mandioca + feijão carioca (porção dobrada)",
+          "ingredientes_principais": [
+            "Folhas para salada a gosto",
+            "Tomate, pepino a gosto",
+            "2 col. chá de azeite de oliva (4g)",
+            "2 col. sopa de abobrinha cozida (60g)",
+            "2 pedaços de mandioca cozida (100g)",
+            "4 col. sopa de feijão carioca cozido (60g)"
+          ]
+        }
+      ]
+    },
+    {
+      "horario": "15:30",
+      "nome": "Lanche da Tarde",
+      "itens": [
+        {
+          "descricao": "Fruta",
+          "opcoes": [
+            "1 unidade pequena de maçã Fuji com casca crua (80g)",
+            "1 unidade de banana maçã crua (65g)"
+          ]
+        },
+        {
+          "descricao": "Acompanhamento",
+          "opcoes": [
+            "4 unidades de roscas de biscoito de polvilho",
+            "Torrada com pão francês — 4 unidades"
+          ]
+        },
+        {
+          "descricao": "Bebida",
+          "opcoes": [
+            "Café com leite zero lactose ~150ml"
+          ]
+        }
+      ],
+      "notas": [
+        "O leite sem lactose ajuda a reduzir a produção de gases intestinais"
+      ],
+      "variacoes_de_pratos": [
+        {
+          "nome": "Lanche com Maçã",
+          "descricao": "Maçã Fuji com casca + 4 roscas de polvilho + café com leite zero lactose",
+          "ingredientes_principais": [
+            "1 maçã Fuji pequena com casca (80g)",
+            "4 roscas de biscoito de polvilho",
+            "Café com leite zero lactose (~150ml)"
+          ]
+        },
+        {
+          "nome": "Lanche com Banana",
+          "descricao": "Banana maçã + 4 torradas de pão francês + café com leite zero lactose",
+          "ingredientes_principais": [
+            "1 banana maçã (65g)",
+            "4 torradas de pão francês",
+            "Café com leite zero lactose (~150ml)"
+          ]
+        },
+        {
+          "nome": "Lanche Leve",
+          "descricao": "Maçã Fuji com casca + café com leite zero lactose (sem acompanhamento sólido)",
+          "ingredientes_principais": [
+            "1 maçã Fuji pequena com casca (80g)",
+            "Café com leite zero lactose (~150ml)"
+          ]
+        }
+      ]
+    },
+    {
+      "horario": "19:30",
+      "nome": "Jantar",
+      "itens": [
+        {
+          "descricao": "Salada crua",
+          "opcoes": [
+            "Folhas verdes a gosto + azeite de oliva extra virgem"
+          ]
+        },
+        {
+          "descricao": "Legume cozido",
+          "opcoes": [
+            "Legume cozido (abobrinha, cenoura ou outro permitido) — porção menor que almoço"
+          ]
+        },
+        {
+          "descricao": "Carboidrato",
+          "opcoes": [
+            "Arroz — porção menor (2 col. sopa)",
+            "Mandioca cozida (1 pedaço pequeno)"
+          ]
+        },
+        {
+          "descricao": "Proteína",
+          "opcoes": [
+            "50g de frango grelhado sem pele",
+            "50g de peixe cozido ou grelhado",
+            "Omelete de carne moída (ver receitas)"
+          ]
+        }
+      ],
+      "notas": [
+        "Refeição leve — menos carboidrato que o almoço",
+        "Preferir peixe ou frango sem pele no jantar",
+        "Evitar carne vermelha no jantar se já consumiu no almoço"
+      ],
+      "variacoes_de_pratos": [
+        {
+          "nome": "Jantar com Frango",
+          "descricao": "Salada crua + legume cozido + arroz (porção menor) + frango grelhado sem pele (50g)",
+          "ingredientes_principais": [
+            "Folhas para salada a gosto",
+            "Fio de azeite de oliva",
+            "Legume cozido a gosto",
+            "2 col. sopa de arroz cozido",
+            "50g de frango grelhado sem pele"
+          ]
+        },
+        {
+          "nome": "Jantar com Peixe",
+          "descricao": "Salada crua + legume cozido + mandioca (porção pequena) + peixe cozido ou grelhado (50g)",
+          "ingredientes_principais": [
+            "Folhas para salada a gosto",
+            "Fio de azeite de oliva",
+            "Legume cozido a gosto",
+            "1 pedaço pequeno de mandioca cozida",
+            "50g de peixe cozido ou grelhado"
+          ]
+        },
+        {
+          "nome": "Jantar Leve com Ovo",
+          "descricao": "Omelete de carne moída (ver receitas) ou ovo mexido + salada crua + 1 fatia pão integral",
+          "ingredientes_principais": [
+            "2-3 ovos",
+            "Carne moída refogada (opcional)",
+            "Folhas para salada a gosto",
+            "1 fatia de pão integral"
+          ]
+        }
+      ]
+    }
+  ]
+}

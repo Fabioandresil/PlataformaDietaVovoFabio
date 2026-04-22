@@ -1,0 +1,183 @@
+{
+  "receitas": [
+    {
+      "nome": "Crepioca",
+      "tipo": "Café da manhã / Lanche",
+      "ingredientes": [
+        "1 ovo",
+        "2 colheres de sopa de goma de tapioca"
+      ],
+      "modo_preparo": [
+        "Misture todos os ingredientes em uma vasilha",
+        "Coloque na frigideira pré-aquecida com um fio de azeite",
+        "Deixe em fogo baixo e tampada",
+        "Assim que estiver desgrudando, vire e deixe dourar do outro lado",
+        "Opcional: acrescentar orégano, tomate, cebola, cheiro verde"
+      ]
+    },
+    {
+      "nome": "Espaguete de Vegetais",
+      "tipo": "Almoço / Jantar",
+      "ingredientes": [
+        "2 abobrinhas OU 2 cenouras",
+        "1 dente de alho",
+        "1 fio de azeite de oliva",
+        "1 tomate maduro",
+        "Temperos a gosto"
+      ],
+      "modo_preparo": [
+        "Corte a abobrinha ou cenoura em formato de espaguete com ralador",
+        "Refogue com alho e azeite",
+        "Despeje a passata de tomate por cima do espaguete",
+        "Sirva em seguida",
+        "Obs: Passata de tomate é a polpa de tomate cozida sem pele ou sementes — sem conservantes"
+      ]
+    },
+    {
+      "nome": "Nuggets de Frango Assado",
+      "tipo": "Almoço / Jantar / Lanche",
+      "ingredientes": [
+        "500g de peito de frango moído",
+        "2 dentes de alho",
+        "2 colheres de sopa de salsinha e cebolinha",
+        "Sal a gosto",
+        "1 colher de chá rasa de páprica doce em pó",
+        "3 colheres de sopa de farelo de aveia"
+      ],
+      "modo_preparo": [
+        "Pré-aqueça o forno a 200°C",
+        "Triture todos os dentes de alho",
+        "Misture todos os ingredientes (exceto o farelo de aveia)",
+        "Faça bolinhas usando uma colher de sopa",
+        "Empane com o farelo de aveia",
+        "Coloque em forma com papel alumínio untado",
+        "Leve ao forno por aproximadamente 15 minutos"
+      ]
+    },
+    {
+      "nome": "Muffin de Legumes com Frango",
+      "tipo": "Café da manhã / Lanche / Jantar leve",
+      "ingredientes": [
+        "3 ovos",
+        "500g de peito de frango cozido e desfiado",
+        "1 tomate",
+        "1/2 cebola",
+        "1 colher de sopa de fermento em pó",
+        "3 colheres de sopa de legumes já cozidos e picados (brócolis, cenoura, berinjela, couve, couve-flor)",
+        "Sal, pimenta do reino e orégano a gosto"
+      ],
+      "modo_preparo": [
+        "Em uma vasilha, acrescente os ovos e bata com fouet ou garfo",
+        "Adicione o tomate, cebola, temperos e os legumes picados e misture",
+        "Acrescente o frango desfiado e o fermento",
+        "Misture tudo",
+        "Unte uma forma de muffin/cupcake com manteiga ou use forminhas de silicone",
+        "Adicione a massa nas forminhas (não coloque muito — vai crescer)",
+        "Asse a 180°C por cerca de 20 minutos"
+      ]
+    },
+    {
+      "nome": "Omelete de Carne Moída",
+      "tipo": "Jantar / Café da manhã",
+      "ingredientes": [
+        "3 ovos",
+        "Sal, pimenta do reino e noz moscada a gosto",
+        "1/2 xícara (chá) de carne moída refogada",
+        "1 colher (sopa) de cebolinha picada"
+      ],
+      "modo_preparo": [
+        "Bata os ovos sem deixar espumar e reserve",
+        "Leve uma frigideira antiaderente untada ao fogo",
+        "Despeje os ovos batidos",
+        "Com uma colher de pau, faça movimentos das bordas para o centro conforme o ovo for cozinhando",
+        "Quando a omelete estiver úmida no centro mas firme o suficiente, polvilhe com sal, pimenta e noz moscada",
+        "Espalhe a carne e a cebolinha na metade da omelete",
+        "Incline a frigideira sobre um prato e deixe a omelete escorregar para o prato",
+        "Feche para formar uma meia lua e sirva em seguida"
+      ]
+    },
+    {
+      "nome": "Croquete de Grão de Bico",
+      "tipo": "Lanche / Entrada",
+      "ingredientes": [
+        "Grão de bico — 6 colheres de sopa cheias (126g)",
+        "Cenoura ralada — 2 unidades médias (240g)",
+        "Abobrinha italiana ralada — 3 escumadeiras médias (270g)",
+        "Inhame ralado — 1 unidade (85g)",
+        "Aveia — 5 colheres de sopa cheias (75g)",
+        "Cebola picada — 1/2 unidade média (35g)",
+        "Semente de girassol — 1 colher de sopa cheia (20g)",
+        "Salsinha picada — 1 ramo (10g)",
+        "Azeite de oliva — 1 colher de sopa rasa (8g)",
+        "Farinha de linhaça para empanar — 3 colheres de sopa cheias (45g)",
+        "Pimenta do reino em pó — 1 colher de café (1g)",
+        "Sal a gosto"
+      ],
+      "modo_preparo": [
+        "Refogue a cebola em fogo médio durante 3 minutos",
+        "Acrescente os legumes ralados e refogue até secar bem",
+        "No processador ou liquidificador, processe o grão de bico sem pele com a salsinha até os grãos dissolverem",
+        "Em um recipiente, misture o grão de bico com a semente de girassol, aveia, sal, pimenta e o refogado",
+        "Misture com as mãos até formar uma massa homogênea",
+        "Molde em formato de croquete e empane na farinha de linhaça",
+        "Leve ao forno ou air fryer pré-aquecido (180°C) por aproximadamente 15 minutos ou até dourar"
+      ]
+    },
+    {
+      "nome": "Quibe de Atum",
+      "tipo": "Almoço / Jantar",
+      "ingredientes": [
+        "Trigo para quibe cru — 3 colheres de sopa rasas (75g)",
+        "Azeite de oliva — 1 colher de sopa rasa (8g)",
+        "Cebola ralada — 1 unidade pequena (30g)",
+        "Cenoura ralada — 1/2 unidade média (60g)",
+        "Atum light em água — 1 lata (170g)",
+        "Farelo de trigo — 3 colheres de sopa cheias (27g)",
+        "Cebolinha verde picada — 1 colher de sopa (2,5g)",
+        "Salsa picada — 1 colher de sopa rasa (4g)"
+      ],
+      "modo_preparo": [
+        "Coloque o trigo de molho na água por 1 hora, escorra e reserve",
+        "Refogue a cebola e a cenoura com o azeite",
+        "Junte com o atum, farelo de trigo, salsa e cebolinha",
+        "Coloque em uma travessa pequena e faça cortes pequenos",
+        "Leve ao forno médio pré-aquecido (180°C) por aproximadamente 30 minutos ou até a massa ficar firme"
+      ]
+    },
+    {
+      "nome": "Sorvete de Manga",
+      "tipo": "Sobremesa / Lanche",
+      "ingredientes": [
+        "Banana maçã congelada — 2 unidades médias (80g)",
+        "Manga Palmer congelada — 2 unidades pequenas (120g)",
+        "Suco de limão tahiti — 1/2 copo médio (100ml)",
+        "Gengibre ralado — 1/2 colher de sobremesa (8g)"
+      ],
+      "modo_preparo": [
+        "Em um liquidificador, adicione todas as frutas, o suco de limão e o gengibre",
+        "Bata até atingir a consistência de sorvete",
+        "Armazene no congelador caso não sirva imediatamente"
+      ]
+    },
+    {
+      "nome": "Suflê de Brócolis",
+      "tipo": "Jantar / Almoço",
+      "ingredientes": [
+        "Brócolis cozido picado — 2 escumadeiras (120g)",
+        "Ricota — 2 fatias grandes (100g)",
+        "Noz moscada — 1 colher de café rasa (1g)",
+        "Pimenta do reino em pó — 1 colher de café (1g)",
+        "Gema de ovo — 3 unidades (60g)",
+        "Clara de ovo — 3 unidades médias (45g)"
+      ],
+      "modo_preparo": [
+        "Junte o brócolis, a ricota e as gemas no liquidificador",
+        "Bata até ficar na consistência de creme espesso",
+        "Tempere a gosto",
+        "Bata as claras em neve e incorpore à mistura devagar",
+        "Transfira para uma forma para suflê untada com azeite",
+        "Leve ao forno quente (200°C) por 20 a 30 minutos ou até crescer e dourar"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "orientacoes_gerais": [
+    "Evitar o excesso de gorduras saturadas: carnes gordurosas (bovina, suína, frango com pele), laticínios integrais (leite, queijo, manteiga, creme de leite, iogurte), toucinho e derivados (banha, torresmo), óleos de coco e palma (dendê), alimentos ultraprocessados",
+    "Mantenha-se hidratado — prefira água. Sucos de fruta com cuidado (podem elevar potássio). Evite refrigerantes",
+    "Procurar cumprir as quantidades estipuladas das refeições",
+    "Evitar pular refeições",
+    "Evite longos períodos em jejum",
+    "Prepare os alimentos com o mínimo de sal possível — use temperos naturais: salsa, cebolinha, coentro, limão, alho, cebola",
+    "Nunca adicione sal ao prato, mesmo nas saladas — use limão e azeite"
+  ],
+  "alimentos_proibidos_sodio": {
+    "titulo": "Alimentos NÃO recomendados — alto teor de sódio",
+    "itens": [
+      "Carnes salgadas, defumadas, curadas, embutidas, enlatadas: salsicha, linguiça, sardinha, mortadela, presunto, salame, apresuntado, aliche, atum, bacalhau, lombo, carne seca, costela, toucinho, paio, orelha, bacon",
+      "Enlatados e conservas: feijoada, azeitona, picles, aspargo, palmito, patê, cogumelo, maionese, pepino, ervilha, milho",
+      "Extratos, molhos e temperos industrializados: mostarda, shoyo, molho inglês, catchup, caldo de carne, caldo de galinha, pó para miojo, temperos prontos (Arisco, Knorr, Maggi), molho de tomate industrializado, amaciante de carne",
+      "Sopas industrializadas e adoçantes à base de sódio (como ciclamato de sódio)",
+      "Frutos do mar: ostras, mariscos, camarão, lagosta, siri, caranguejo",
+      "Queijos amarelos e curados: parmesão, provolone, suíço, queijos cremosos",
+      "Biscoitos salgados (fandangos), batata chips, pipoca, castanhas de caju salgadas, nozes e amêndoas salgadas",
+      "Bebidas alcoólicas, refrigerantes, bebidas energéticas, sucos industrializados"
+    ]
+  },
+  "alerta_critico": "⚠️ NUNCA CONSUMA CARAMBOLA E BIRIRI — ESTAS SÃO FRUTAS TÓXICAS PARA PACIENTES RENAIS",
+  "dica_hidratacao": "Beber ao menos 1 copo de água por hora até completar 2 litros por dia",
+  "regra_proteina": "Consumir apenas um tipo de carne em cada refeição",
+  "regra_carne_vermelha": "Carne vermelha: no máximo 3 vezes por semana"
+}
